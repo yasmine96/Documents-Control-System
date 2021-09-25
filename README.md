@@ -7,7 +7,7 @@ The system needs to track documents.
 <h2>c- an endpoint to delete customer.</h2>
 <h2>e- an endpoint to get customer.</h2> 
 
-##ERD Diagram of the system 
+## ERD Diagram of the system 
 <img src="image.png" alt="ERD Diagram" width="800px">  
 
 
