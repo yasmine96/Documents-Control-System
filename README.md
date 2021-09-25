@@ -8,7 +8,7 @@ The system needs to track documents.
 <h3>e- an endpoint to get customer.</h3> 
 
 ## ERD Diagram of the system 
-<img src="ERD.png" alt="ERD Diagram" width="800px">  
+<img src="ERD.PNG" alt="ERD Diagram" width="800px">  
 
 
 
